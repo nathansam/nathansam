@@ -17,6 +17,8 @@ My research focuses on predicting outcomes for patients with inflammatory bowel 
 
 I am supervised by [Dr Catalina Vallejos](https://github.com/catavallejos) and [Professor Charlie Lees](https://charlielees.com) and financially supported by the Medical Research Council (MRC). 
 
+My [talks repository](https://github.com/nathansam/talks) contains PDF files of slides from presentations I have given.
+
 ### About Me
 
 After completing a Mathematics undergraduate degree from Aberystwyth university, where I primarily focused on statistics and pure mathematics, I studied an MSc in Statistics for Computational Biology at the same institution. I am now a PhD student in the [Vallejos group](https://vallejosgroup.github.io/) led by [Dr Catalina Vallejos](https://github.com/catavallejos) at the University of Edinburgh. I am a student on the Precision Medicine doctoral training programme. I have also worked on [DECOVID](https://www.decovid.org) as an analyst.
