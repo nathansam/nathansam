@@ -13,9 +13,9 @@
 
 ### Research
 
-My research focuses on predicting outcomes for patients with inflammatory bowel disease (IBD): an umbrella term for Crohn's disease and ulcerative colitis. I am taking a holistic approach to modelling these outcomes by considering diet and lifestyle factors alongside whole-genome and metabolomic sequencing data as part of the [PREdiCCt study](https://www.predicct.co.uk). I am interested in also incorporating longitudinal measurements, such as blood results, in my models. 
+My research focuses on predicting outcomes for patients with inflammatory bowel disease (IBD). I am taking a holistic approach to modelling these outcomes by considering diet and lifestyle factors alongside whole-genome and metabolomic sequencing data as part of the [PREdiCCt study](https://www.predicct.co.uk). I am interested in also incorporating longitudinal measurements, such as blood results, in my models. 
 
-I am supervised by [Dr Catalina Vallejos](https://github.com/catavallejos) and [Dr Charlie Lees](https://charlielees.com) and financially supported by the Medical Research Council (MRC). 
+I am supervised by [Dr Catalina Vallejos](https://github.com/catavallejos) and [Professor Charlie Lees](https://charlielees.com) and financially supported by the Medical Research Council (MRC). 
 
 ### About Me
 
