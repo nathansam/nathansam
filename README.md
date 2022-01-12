@@ -33,5 +33,11 @@ After completing a Mathematics undergraduate degree from Aberystwyth university,
 
 My personal interests include fitness and all things tech (especially PC hardware :desktop_computer:).
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathansam&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nathansam&layout=compact&hide=tex,html,groovy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nathansam&layout=compact&hide=tex,html,groovy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
+    [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathansam&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
+ 
 
