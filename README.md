@@ -18,6 +18,7 @@ I maintain some R packages:
 |:-------:|:-----|:------:|:-------------:|
 | [datefixR](https://github.com/nathansam/datefixR) | [![CRAN status](https://www.r-pkg.org/badges/version/datefixR)](https://CRAN.R-project.org/package=datefixR) | [![GitHub issues](https://img.shields.io/github/issues/nathansam/datefixR)](https://github.com/nathansam/datefixR/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/nathansam/datefixR)](https://github.com/nathansam/datfixR/pulls)|
 | [BASSLINE](https://github.com/nathansam/BASSLINE) | [![CRAN status](https://www.r-pkg.org/badges/version/BASSLINE)](https://CRAN.R-project.org/package=BASSLINE) |  [![GitHub issues](https://img.shields.io/github/issues/nathansam/BASSLINE)](https://github.com/nathansam/BASSLINE/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/nathansam/BASSLINE)](https://github.com/nathansam/BASSLINE/pulls)|
+| [gameR](https://github.com/nathansam/gameR) | [![CRAN status](https://www.r-pkg.org/badges/version/gameR)](https://CRAN.R-project.org/package=gameR) |  [![GitHub issues](https://img.shields.io/github/issues/nathansam/gameR)](https://github.com/nathansam/gameR/issues) | [![GitHub pulls](https://img.shields.io/github/issues-pr/nathansam/gameR)](https://github.com/nathansam/gameR/pulls)|
 
 ### Research
 
