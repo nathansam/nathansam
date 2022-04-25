@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![:total status badge](https://nathansam.r-universe.dev/badges/:total)](https://nathansam.r-universe.dev)
+
 ### Basic Info 
 
 **I am a PhD student predicting outcomes in inflammatory bowel disease with an interest in the joint modelling of longitudinal and time-to-event data.**
