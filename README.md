@@ -13,7 +13,7 @@
 - :office: Working at MRC Human Genetics Unit, The University of Edinburgh
 - :house: Living in Edinburgh, Scotland
 - 😄 Pronouns: he, him, his
-- :page_facing_up: [My CV](./My_CV.pdf)
+- :page_facing_up: [My CV](https://github.com/nathansam/nathansam.github.io/blob/master/assets/pdf/My_CV.pdf)
 
 ### Research
 
