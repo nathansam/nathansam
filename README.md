@@ -3,6 +3,8 @@
 <p align="left"> <a href="https://twitter.com/ibdnathan" target="blank"><img src="https://img.shields.io/twitter/follow/ibdnathan?logo=twitter&style=for-the-badge" alt="ibdnathan" height="25" /></a> <a href="https://nathansam.r-universe.dev" target="blank"><img src="https://nathansam.r-universe.dev/badges/:total?style=flat" alt="r universe badge" height="25" /></a> <a href="https://www.constantine-cooke.com" target="blank"><img src="https://img.shields.io/website?down_message=offline&label=Personal%20website&logo=hugo&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.constantine-cooke.com" alt="Personal website" height="25" /></a> 
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathansam&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Basic Info 
 
 **I am an [MRC Precision Medicine](https://www.ed.ac.uk/usher/precision-medicine) PhD student predicting outcomes in inflammatory bowel disease.**
@@ -13,6 +15,8 @@
 - :house: Living in Edinburgh, Scotland
 - 😄 Pronouns: he, him, his
 - :page_facing_up: [My CV](https://github.com/nathansam/nathansam.github.io/blob/master/assets/pdf/My_CV.pdf)
+
+
 
 I maintain some R packages:
 
