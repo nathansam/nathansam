@@ -47,7 +47,7 @@ And a Rust crate:
  <h4> Programming Languages </h4>
  
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rust-logo-64x64.png" alt="rust" width="40" height="40"/> </a>
 
 <h4> Markup Languages </h4>
  
